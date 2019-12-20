@@ -4,12 +4,12 @@
 <body>
 <img src="img/researcher.svg" />
 <h1><b>Researcher<b></h1>
-<p>Selenium Entegration for https://haveibeenpwned.com/</p>
+<h4>Selenium Entegration for https://haveibeenpwned.com/</h4>
 
 <h2><b>Dependecies</b></h2>
-<p>pip install selenium</p>
+<h4>pip install selenium</h4>
 
 <h2><b>For Start</b></h2>
-<p>python researcher.py --email=mailaddress@domain.com</p>
+<h4>python researcher.py --email=mailaddress@domain.com</h4>
 </body>
 </html>

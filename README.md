@@ -1,6 +1,13 @@
-# Researcher
-Selenium Entegration for https://haveibeenpwned.com/
+<html>
+<head>
+</head>
+<body>
+<img src="img/researcher.svg" />
+<p>Researcher<p>
+<p>Selenium Entegration for https://haveibeenpwned.com/</p>
 
-pip install selenium
+<p>pip install selenium</p>
 
-python researcher.py --email=mailaddress@domain.com
+<p>python researcher.py --email=mailaddress@domain.com</p>
+</body>
+</html>

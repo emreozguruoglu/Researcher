@@ -10,6 +10,7 @@
 <h5>pip install selenium</h5>
 
 <h2><b>For Start</b></h2>
-<h5>python researcher.py --email=mailaddress@domain.com</h5>
+<h6>python researcher.py --email=mailaddress@domain.com</h6>
+<h6>python researcher.py --filepath=your_file_path</h6>
 </body>
 </html>

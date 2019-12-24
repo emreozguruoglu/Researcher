@@ -9,6 +9,7 @@
 
 <h2><b>Dependecies</b></h2>
 <h6>pip install selenium</h6>
+<h6>pip install xlsxwriter</h6>
 
 <h2><b>For Start</b></h2>
 <h5>python researcher.py --email=mailaddress@domain.com</h5>

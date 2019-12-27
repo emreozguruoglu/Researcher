@@ -5,6 +5,7 @@
 <img src="img/researcher.svg" />
 <h1><b>Researcher<b></h1>
 If you have email list for check haveibeenpwned, you can use a Researcher !
+  </br>
 Selenium Entegration for https://haveibeenpwned.com/
 
 <h2><b>Dependecies</b></h2>

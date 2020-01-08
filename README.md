@@ -11,8 +11,12 @@
 
   <div>
   <h2>Dependecies</h2>
-  -pip install selenium
-  -pip install xlsxwriter
+  <pre>
+  <code>
+  pip install selenium
+  </br>
+  pip install xlsxwriter
+  </code>
   </div>
   
   <div>

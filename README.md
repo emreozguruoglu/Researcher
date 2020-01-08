@@ -14,9 +14,9 @@
   <pre>
   <code>
   pip install selenium
-  </br>
   pip install xlsxwriter
   </code>
+  </pre>
   </div>
   
   <div>

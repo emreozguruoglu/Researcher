@@ -9,7 +9,6 @@
   <p>Selenium Entegration for https://haveibeenpwned.com/</p>
   </div>
 
-  <div>
   <h2>Dependecies</h2>
   <pre>
   <code>
@@ -17,7 +16,6 @@
   pip install xlsxwriter
   </code>
   </pre>
-  </div>
   
   <div>
   <h2>For Start</h2>
